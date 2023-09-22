@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics role and prefered football data management
 - i know relevent skills like python,SQL,pandas 
 - 🌱 I’m currently doing PGP course of data science by great learning
-- 💞️ I’m looking to collaborate on sports analytics
+- 💞️ I’m looking for a job in data analysis 
 - 📫 How to reach me aviralnegi635@gmail.com
 
 <!---
