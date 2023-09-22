@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AviralNegi007
-- 👀 I’m interested in football data managemnet
-- 🌱 I’m currently learning football analytics using python
+- 👀 I’m interested in data analytics role and prefered football data management
+- i know relevent skills like python,SQL,pandas 
+- 🌱 I’m currently doing PGP course of data science by great learning
 - 💞️ I’m looking to collaborate on sports analytics
 - 📫 How to reach me aviralnegi635@gmail.com
 
