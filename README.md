@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AviralNegi007
-- 👀 I’m interested in data analytics role and prefered football data management
+- 👀 I’m interested in data analytics role 
 - i know relevent skills like python,SQL,pandas 
 - 🌱 I’m currently doing PGP course of data science by great learning
 - 💞️ I’m looking for a job in data analysis 
